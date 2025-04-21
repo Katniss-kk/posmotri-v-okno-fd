@@ -30,8 +30,8 @@ html {
 .result {
   width: 711px;
   max-height: 100%;
-  grid-area: result;
   height: 456px;
+  grid-area: result;
 }
 
 .content__details {
